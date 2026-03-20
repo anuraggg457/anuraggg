@@ -1,3 +1,6 @@
 x=print("hello world")
 print(x)
 print("value output =", x)
+print("end the code early")
+print("code finished")
+print("end")
